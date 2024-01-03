@@ -1,6 +1,5 @@
 streamlit
 streamlit_option_menu
-PIL
 CV2
 pandas
 st_aggrid
