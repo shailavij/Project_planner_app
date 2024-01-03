@@ -20,8 +20,8 @@ import plotly.express as px
 #st.markdown(sysmenu,unsafe_allow_html=True)
 
 #Add a logo (optional) in the sidebar
-logo = Image.open(r'logo1.png')
-profile = Image.open(r'logo2.png')
+#logo = Image.open(r'logo1.png')
+#profile = Image.open(r'logo2.png')
 
 with st.sidebar:
     choose = option_menu("App Gallery", ["Project Planning","Contact"],
